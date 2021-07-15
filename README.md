@@ -1,1 +1,4 @@
-# intro_esp8266
+# ESP8266
+Dans ce dossier vous trouvez le cablage mais aussi le programme.
+
+Vous avez seulement a brancher comme moi et téléversez le programme dans la carte ESP8266.
